@@ -1,0 +1,34 @@
+{
+  "name": "material-ui-formik-wizard-with-stepper",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@material-ui/core": "4.3.2",
+    "formik": "1.5.8",
+    "formik-material-ui": "0.0.20",
+    "materialui-daterange-picker": "^1.1.92",
+    "react": "16.8.6",
+    "react-dom": "16.8.6",
+    "react-notifications": "^1.7.4",
+    "react-scripts": "3.0.1",
+    "react-swipeable-views": "0.13.3",
+    "yup": "0.27.0"
+  },
+  "devDependencies": {
+    "typescript": "3.3.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
